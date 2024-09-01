@@ -76,16 +76,13 @@ body{
     align-items: center;
     width: 300px;
     border-radius: 15px;
-    background-color: red;
+    background-color: aqua;
     margin: 10px;
     transition: 500ms;
     text-decoration: none;
 }
 
-#card:hover {
-    filter: grayscale(1);
-    transform: scale(1.05);
-}
+
 
 #card .img {
     text-align: center;
